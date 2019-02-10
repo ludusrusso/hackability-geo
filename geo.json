@@ -1,0 +1,13 @@
+{
+    "stop": 4,
+    "folders": [
+        {
+            "name": "lombardia",
+            "button": 3
+        },
+        {
+            "name": "sicilia",
+            "button": 2
+        }
+    ]
+}
