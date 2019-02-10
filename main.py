@@ -1,6 +1,8 @@
 import pygame
 from place import Place
 import json
+from gpiozero import Button
+from time import sleep
 
 pygame.init()
 pygame.mixer.init()
